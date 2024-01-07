@@ -29,11 +29,4 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
-span{
-  font-weight: bold;
-  color: #2c3e50;
-  cursor: pointer;
-  margin: 0 15px;
-  text-decoration: underline;
-}
 </style>
